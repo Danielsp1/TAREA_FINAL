@@ -1,8 +1,9 @@
 # TAREA_FINAL
 La tarea consiste en analizar una base de datos y poder predecir si un paciente tiene cancer o no.
 Para lograrlo hacemos lo siguiente:
-# Paso 1
+# Paso 1: IMporte de bibliotecas y limpieza de data.
 - Importar las bibliotecas necesarias.
+- Preprar la data para el analisis.
 - Cargar y dividir el conjunto de datos en entrenamiento y prueba.
 # Paso 2: Entrenamiento de los Modelos
 - Inicializar y entrenar los modelos con el conjunto de datos de entrenamiento.
